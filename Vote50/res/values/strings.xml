@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vote50</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_settings">Vote Settings</string>
+    <string name="title_activity_settingss">SettingssActivity</string>
+    <string name="new_votings_arrived">New Votings Arrived</string>
+    <string name="no_new_voting">No New Voting Available</string>
+    <string name="vote_posted">Voting is Posted</string>
+    <string name="error_wtf">Error Found: </string> 
+</resources>

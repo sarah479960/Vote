@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="voting_types">
+        <item>All Votings</item>
+        <item>Closed Votings</item>
+        <item>Open Votings</item>
+        <item>Future Votings</item>
+        </string-array>
+    
+</resources>
